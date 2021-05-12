@@ -25,7 +25,7 @@ export default function Welcome() {
         <Text style={styles.title}>
           Gerencie {'\n'}
           suas plantas {'\n'}
-          de forma facil.
+          de forma fácil.
       </Text>
 
         {
